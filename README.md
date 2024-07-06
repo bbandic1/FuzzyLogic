@@ -10,7 +10,7 @@ In today's world, where precise data is not always available or reliable, fuzzy 
 
 The applications covered in this repository include:
 
-- A Prerequisite for The Oral Exam - Tehcnics of Programming
+- A Prerequisite for The Oral Exam - Programming Techniques
 - Quantum State Classification
 - Computer System Performance Classification
 - Network Congestion Classification
@@ -21,7 +21,7 @@ Each application demonstrates how fuzzy logic can be applied to solve real-world
 
 ## Implementations
 
-### A Prerequisite for The Oral Exam - Tehcnics of Programming
+### A Prerequisite for The Oral Exam - Programming Techniques
 
 - **Description**: The fuzzy logic system evaluates the scores from assignments and tests to decide whether a student is eligible for the oral exam. 
 - **Implementation**: C++
