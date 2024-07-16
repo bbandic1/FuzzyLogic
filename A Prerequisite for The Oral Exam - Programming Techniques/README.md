@@ -65,6 +65,14 @@ The main function coordinates the entire process:
 - **Rule Evaluation**: Applies fuzzy logic rules to determine the Degrees of Fulfillment (DOF).
 - **Defuzzification**: Uses the Method of Maximum (MOM) to make the final decision based on the highest membership value from the output functions.
 
+## Execution
+
+To determine the aggression level:
+1. Run the script.
+2. Enter the distance to the enemy (in blocks).
+3. Enter the number of troops.
+4. The script will output the aggression level.
+
 ## Usage
 
 This program can be used as a basis for developing more complex educational assessment systems using fuzzy logic.
